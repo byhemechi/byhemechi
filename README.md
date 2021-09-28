@@ -7,4 +7,4 @@ Right now I don't have too much on my GitHub profile, my work's mostly been inte
 
 I also play a lot of Beat Saber
 
-![scoresaber profile](https://profile.sadcloud.co/api/profile/image/76561198101382389?width=500&height=300)
+![scoresaber profile](https://profile.sadcloud.co/api/profile/image/76561198101382389?width=600&height=300)
